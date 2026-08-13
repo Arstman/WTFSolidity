@@ -55,7 +55,7 @@ contract Parents {
 
 ![Iron Man's modifier](https://images.mirror-media.xyz/publication-images/nVwXsOVmrYu8rqvKKPMpg.jpg?height=630&width=1200)
 
-Se define un modificador llamado `onlyOwner`. Las Función que usen `OnlyOwner` solo pueden ser llamadas por el propietario (`owner`):
+Se define un modificador llamado `onlyOwner`. Las Función que usen `onlyOwner` solo pueden ser llamadas por el propietario (`owner`):
 ```solidity
    // define el modificador
    modifier onlyOwner {
